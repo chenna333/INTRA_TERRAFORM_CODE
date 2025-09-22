@@ -27,8 +27,3 @@ variable "private_subnets" {
 }
 
 
-
-
-
-
-
